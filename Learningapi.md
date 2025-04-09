@@ -4,4 +4,4 @@
 2. Retrieve your API credentials.
 3. Code your integration.
 4. Test.
-5. Go live.
+5. Go live now.
